@@ -30,7 +30,7 @@ public class Point {
     }
 
     public String toString() {
-        return "X "+x+"\nY "+y;
+        return "X "+x+" Y "+y;
     }
 }
 
